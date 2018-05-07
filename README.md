@@ -1,2 +1,3 @@
 # hello-world
-Short description
+## Short description
+A bit about myself
